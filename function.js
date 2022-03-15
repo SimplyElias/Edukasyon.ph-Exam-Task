@@ -18,9 +18,6 @@ function grading() {
     //     studentDir.push([studentName, parseInt(studentGrade)]);
     // }
     //}
-
-
-    console.log(studentDir)
 }
 
 function computeAverage() {
